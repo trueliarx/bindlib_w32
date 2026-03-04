@@ -1,0 +1,68 @@
+﻿  base64.c
+  gethnamaddr.c
+C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(507,27): warning C4311: 'type cast': pointer truncation from 'char *' to 'u_long'
+C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(1106,28): warning C4311: 'type cast': pointer truncation from 'char *' to 'u_long'
+  getnetbyaddr.c
+  getnetbyname.c
+  getnetent.c
+  getnetnamadr.c
+  herror.c
+  hostnamelen.c
+  inet_addr.c
+  inet_neta.c
+C:\Users\utente\source\repos\resolv\resolv\inet_neta.c(66,11): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [3]'
+C:\Users\utente\source\repos\resolv\resolv\inet_neta.c(66,11): warning C4024: 'snprintf': different types for formal and actual parameter 2
+C:\Users\utente\source\repos\resolv\resolv\inet_neta.c(66,11): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'u_char'
+C:\Users\utente\source\repos\resolv\resolv\inet_neta.c(66,11): warning C4024: 'snprintf': different types for formal and actual parameter 3
+  inet_net_ntop.c
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(121,10): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [3]'
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(121,10): warning C4024: 'snprintf': different types for formal and actual parameter 2
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(121,10): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'const u_char'
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(121,10): warning C4024: 'snprintf': different types for formal and actual parameter 3
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(138,10): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [3]'
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(138,10): warning C4024: 'snprintf': different types for formal and actual parameter 2
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(138,10): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'u_int'
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(138,10): warning C4024: 'snprintf': different types for formal and actual parameter 3
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(145,9): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [4]'
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(145,9): warning C4024: 'snprintf': different types for formal and actual parameter 2
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(145,9): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(145,9): warning C4024: 'snprintf': different types for formal and actual parameter 3
+  inet_net_pton.c
+  inet_ntop.c
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(102,9): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'const char [12]'
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(102,9): warning C4024: 'snprintf': different types for formal and actual parameter 2
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(102,9): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'const u_char'
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(102,9): warning C4024: 'snprintf': different types for formal and actual parameter 3
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(193,9): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [3]'
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(193,9): warning C4024: 'snprintf': different types for formal and actual parameter 2
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(193,9): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'u_int'
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(193,9): warning C4024: 'snprintf': different types for formal and actual parameter 3
+  inet_pton.c
+  nsap_addr.c
+  res_comp.c
+  res_data.c
+  res_debug.c
+C:\Users\utente\source\repos\resolv\resolv\res_debug.c(875,17): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+      C:\Users\utente\source\repos\resolv\resolv\res_debug.c(875,17):
+      consider using '%lld' in the format string
+      C:\Users\utente\source\repos\resolv\resolv\res_debug.c(875,17):
+      consider using '%Id' in the format string
+      C:\Users\utente\source\repos\resolv\resolv\res_debug.c(875,17):
+      consider using '%I64d' in the format string
+  
+  res_init.c
+  res_mkquery.c
+  Compiling...
+  res_nt_misc.c
+C:\Users\utente\source\repos\resolv\resolv\include\conf\portability.h(108,9): warning C4005: 'FD_SETSIZE': macro redefinition
+  (compiling source file 'res_nt_misc.c')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winsock.h(62,9):
+      see previous definition of 'FD_SETSIZE'
+  
+  res_query.c
+  res_send.c
+C:\Users\utente\source\repos\resolv\resolv\res_send.c(684,13): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+  sethostent.c
+  writev.c
+C:\Users\utente\source\repos\resolv\resolv\writev.c(118,19): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+  resolv.vcxproj -> C:\Users\utente\source\repos\resolv\x64\Release\resolv.lib

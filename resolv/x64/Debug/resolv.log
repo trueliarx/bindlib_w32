@@ -1,0 +1,105 @@
+﻿  base64.c
+C:\Users\utente\source\repos\resolv\resolv\base64.c(326,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  gethnamaddr.c
+C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(101,9): warning C4005: 'SPRINTF': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(99,9):
+      see previous definition of 'SPRINTF'
+  
+C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(136,9): warning C4005: 'MAXPACKET': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(134,9):
+      see previous definition of 'MAXPACKET'
+  
+C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(216,9): warning C4005: 'BOUNDED_INCR': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(205,9):
+      see previous definition of 'BOUNDED_INCR'
+  
+C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(236,9): warning C4005: 'BOUNDS_CHECK': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(228,9):
+      see previous definition of 'BOUNDS_CHECK'
+  
+C:\Users\utente\source\repos\resolv\resolv\gethnamaddr.c(1216,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  getnetbyaddr.c
+C:\Users\utente\source\repos\resolv\resolv\getnetbyaddr.c(61,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  getnetbyname.c
+C:\Users\utente\source\repos\resolv\resolv\getnetbyname.c(68,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  getnetent.c
+C:\Users\utente\source\repos\resolv\resolv\getnetent.c(191,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  getnetnamadr.c
+C:\Users\utente\source\repos\resolv\resolv\getnetnamadr.c(86,9): warning C4005: 'MAXPACKET': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\getnetnamadr.c(84,9):
+      see previous definition of 'MAXPACKET'
+  
+C:\Users\utente\source\repos\resolv\resolv\getnetnamadr.c(314,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  herror.c
+C:\Users\utente\source\repos\resolv\resolv\herror.c(136,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  hostnamelen.c
+C:\Users\utente\source\repos\resolv\resolv\hostnamelen.c(98,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  inet_addr.c
+C:\Users\utente\source\repos\resolv\resolv\inet_addr.c(191,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  inet_neta.c
+C:\Users\utente\source\repos\resolv\resolv\inet_neta.c(35,10): warning C4005: 'SPRINTF': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\inet_neta.c(33,10):
+      see previous definition of 'SPRINTF'
+  
+C:\Users\utente\source\repos\resolv\resolv\inet_neta.c(93,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  inet_net_ntop.c
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(38,10): warning C4005: 'SPRINTF': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(35,10):
+      see previous definition of 'SPRINTF'
+  
+C:\Users\utente\source\repos\resolv\resolv\inet_net_ntop.c(161,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  inet_net_pton.c
+C:\Users\utente\source\repos\resolv\resolv\inet_net_pton.c(39,10): warning C4005: 'SPRINTF': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\inet_net_pton.c(37,10):
+      see previous definition of 'SPRINTF'
+  
+C:\Users\utente\source\repos\resolv\resolv\inet_net_pton.c(233,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  inet_ntop.c
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(39,10): warning C4005: 'SPRINTF': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(36,10):
+      see previous definition of 'SPRINTF'
+  
+C:\Users\utente\source\repos\resolv\resolv\inet_ntop.c(215,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  inet_pton.c
+C:\Users\utente\source\repos\resolv\resolv\inet_pton.c(222,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  nsap_addr.c
+C:\Users\utente\source\repos\resolv\resolv\nsap_addr.c(121,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  res_comp.c
+C:\Users\utente\source\repos\resolv\resolv\res_comp.c(1139,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  res_data.c
+C:\Users\utente\source\repos\resolv\resolv\res_data.c(118,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  res_debug.c
+C:\Users\utente\source\repos\resolv\resolv\res_debug.c(1549,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  res_init.c
+C:\Users\utente\source\repos\resolv\resolv\res_init.c(687,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  res_mkquery.c
+C:\Users\utente\source\repos\resolv\resolv\res_mkquery.c(197,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  res_nt_misc.c
+C:\Users\utente\source\repos\resolv\resolv\res_nt_misc.c(49,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  res_query.c
+C:\Users\utente\source\repos\resolv\resolv\res_query.c(90,9): warning C4005: 'MAXPACKET': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\res_query.c(88,9):
+      see previous definition of 'MAXPACKET'
+  
+C:\Users\utente\source\repos\resolv\resolv\res_query.c(487,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  res_send.c
+C:\Users\utente\source\repos\resolv\resolv\res_send.c(122,10): warning C4005: 'CAN_RECONNECT': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\res_send.c(120,10):
+      see previous definition of 'CAN_RECONNECT'
+  
+C:\Users\utente\source\repos\resolv\resolv\res_send.c(131,12): warning C4005: 'Dprint': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\res_send.c(126,12):
+      see previous definition of 'Dprint'
+  
+C:\Users\utente\source\repos\resolv\resolv\res_send.c(132,12): warning C4005: 'DprintQ': macro redefinition
+      C:\Users\utente\source\repos\resolv\resolv\res_send.c(127,12):
+      see previous definition of 'DprintQ'
+  
+C:\Users\utente\source\repos\resolv\resolv\res_send.c(978,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  sethostent.c
+C:\Users\utente\source\repos\resolv\resolv\sethostent.c(64,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  writev.c
+C:\Users\utente\source\repos\resolv\resolv\writev.c(132,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
